@@ -1,0 +1,44 @@
+#centTbl{
+    font-size: large;
+    color: aqua;
+}
+
+body{
+    background-color: rgb(17, 17, 41);
+}
+
+/*h1{
+    color: greenyellow;
+}*/
+
+#error{
+    color: red;
+}
+
+th{
+    font-size: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;    
+}
+
+td{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+hr{
+    border: 2px solid rgb(109, 248, 248);
+}
+
+#tags{
+    color: rgb(3, 71, 20);
+}
+
+
